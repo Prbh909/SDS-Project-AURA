@@ -1,0 +1,9 @@
+{
+  "name": "sds-project-aura",
+  "version": "2.0.0",
+  "private": true,
+  "description": "SDS AURA — GPS-first school transport and camera-assisted attendance prototype",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
